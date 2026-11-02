@@ -1,0 +1,22 @@
+# 可选：用 XcodeGen 生成 Xcode 工程（brew install xcodegen && xcodegen generate）。
+# 日常构建/安装直接用 ./build.sh 与 ./install.sh 即可，不需要这个文件。
+name: LanguageInput
+options:
+  deploymentTarget:
+    macOS: "13.0"
+targets:
+  LanguageInput:
+    type: application
+    platform: macOS
+    sources:
+      - Sources
+      - path: Resources
+        excludes: ["Info.plist"]
+    settings:
+      base:
+        INFOPLIST_FILE: Resources/Info.plist
+        PRODUCT_BUNDLE_IDENTIFIER: com.languageinput.inputmethod.LanguageInput
+        PRODUCT_NAME: LanguageInput
+        SWIFT_VERSION: "5.0"
+        CODE_SIGN_STYLE: Automatic
+        ENABLE_HARDENED_RUNTIME: NO

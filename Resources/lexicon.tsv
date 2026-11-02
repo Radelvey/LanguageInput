@@ -1,0 +1,1585 @@
+# pinyin	word	freq   (seed lexicon, hand written; run tools/build_lexicon.py for the full one)
+a	啊	4000
+a	阿	2000
+ai	爱	4000
+ai	哀	2000
+ai	埃	1333
+an	安	4000
+an	按	2000
+an	暗	1333
+an	案	1000
+ang	昂	4000
+ao	奥	4000
+ao	傲	2000
+ba	吧	4000
+ba	把	2000
+ba	八	1333
+ba	爸	1000
+ba	巴	800
+bai	白	4000
+bai	百	2000
+bai	摆	1333
+bai	败	1000
+ban	办	4000
+ban	半	2000
+ban	班	1333
+ban	般	1000
+ban	板	800
+bang	帮	4000
+bang	棒	2000
+bang	邦	1333
+bao	包	4000
+bao	保	2000
+bao	报	1333
+bao	宝	1000
+bao	抱	800
+bei	北	4000
+bei	被	2000
+bei	背	1333
+bei	备	1000
+bei	杯	800
+bei	悲	666
+ben	本	4000
+ben	笨	2000
+bi	比	4000
+bi	必	2000
+bi	笔	1333
+bi	毕	1000
+bi	避	800
+bi	币	666
+bian	变	4000
+bian	边	2000
+bian	便	1333
+bian	遍	1000
+bian	编	800
+biao	表	4000
+biao	标	2000
+bie	别	4000
+bing	并	4000
+bing	病	2000
+bing	冰	1333
+bing	兵	1000
+bu	不	4000
+bu	步	2000
+bu	部	1333
+bu	布	1000
+bu	补	800
+ca	擦	4000
+cai	才	4000
+cai	菜	2000
+cai	财	1333
+cai	彩	1000
+cai	猜	800
+cai	采	666
+can	参	4000
+can	餐	2000
+can	惨	1333
+cang	仓	4000
+cang	藏	2000
+cao	草	4000
+cao	操	2000
+ce	策	4000
+ce	测	2000
+ce	册	1333
+ceng	层	4000
+ceng	曾	2000
+cha	查	4000
+cha	差	2000
+cha	茶	1333
+cha	察	1000
+chai	拆	4000
+chan	产	4000
+chang	长	4000
+chang	常	2000
+chang	场	1333
+chang	唱	1000
+chang	厂	800
+chang	尝	666
+chao	超	4000
+chao	朝	2000
+chao	吵	1333
+chao	抄	1000
+che	车	4000
+che	彻	2000
+chen	陈	4000
+chen	沉	2000
+chen	晨	1333
+cheng	成	4000
+cheng	城	2000
+cheng	程	1333
+cheng	称	1000
+cheng	乘	800
+cheng	承	666
+chi	吃	4000
+chi	迟	2000
+chi	持	1333
+chi	池	1000
+chi	尺	800
+chong	重	4000
+chong	冲	2000
+chong	充	1333
+chou	抽	4000
+chou	愁	2000
+chou	丑	1333
+chu	出	4000
+chu	初	2000
+chu	处	1333
+chu	除	1000
+chu	楚	800
+chu	储	666
+chuan	传	4000
+chuan	船	2000
+chuan	穿	1333
+chuan	串	1000
+chuang	创	4000
+chuang	窗	2000
+chuang	床	1333
+chui	吹	4000
+chun	春	4000
+chun	纯	2000
+ci	次	4000
+ci	此	2000
+ci	词	1333
+ci	刺	1000
+ci	磁	800
+cong	从	4000
+cong	聪	2000
+cu	粗	4000
+cu	促	2000
+cun	村	4000
+cun	存	2000
+cuo	错	4000
+cuo	措	2000
+da	大	4000
+da	打	2000
+da	达	1333
+dai	带	4000
+dai	代	2000
+dai	待	1333
+dai	袋	1000
+dai	戴	800
+dan	但	4000
+dan	单	2000
+dan	担	1333
+dan	蛋	1000
+dan	淡	800
+dang	当	4000
+dang	党	2000
+dang	挡	1333
+dao	到	4000
+dao	道	2000
+dao	导	1333
+dao	倒	1000
+dao	刀	800
+dao	岛	666
+de	的	4000
+de	得	2000
+de	地	1333
+de	德	1000
+deng	等	4000
+deng	灯	2000
+deng	登	1333
+di	地	4000
+di	第	2000
+di	底	1333
+di	低	1000
+di	弟	800
+di	敌	666
+dian	点	4000
+dian	电	2000
+dian	店	1333
+dian	典	1000
+diao	调	4000
+diao	掉	2000
+diao	钓	1333
+die	跌	4000
+ding	定	4000
+ding	订	2000
+ding	顶	1333
+ding	钉	1000
+dong	东	4000
+dong	动	2000
+dong	冬	1333
+dong	懂	1000
+dong	洞	800
+dou	都	4000
+dou	斗	2000
+dou	豆	1333
+du	读	4000
+du	度	2000
+du	独	1333
+du	毒	1000
+du	堵	800
+duan	短	4000
+duan	段	2000
+duan	断	1333
+dui	对	4000
+dui	队	2000
+dun	顿	4000
+dun	吨	2000
+duo	多	4000
+duo	朵	2000
+duo	躲	1333
+e	额	4000
+e	饿	2000
+e	恶	1333
+e	鹅	1000
+en	恩	4000
+er	二	4000
+er	而	2000
+er	儿	1333
+er	耳	1000
+fa	发	4000
+fa	法	2000
+fa	罚	1333
+fan	反	4000
+fan	饭	2000
+fan	翻	1333
+fan	烦	1000
+fan	范	800
+fan	犯	666
+fang	方	4000
+fang	放	2000
+fang	房	1333
+fang	访	1000
+fang	防	800
+fei	非	4000
+fei	飞	2000
+fei	费	1333
+fei	肥	1000
+fen	分	4000
+fen	份	2000
+fen	粉	1333
+feng	风	4000
+feng	封	2000
+feng	丰	1333
+feng	峰	1000
+feng	疯	800
+fo	佛	4000
+fou	否	4000
+fu	副	4000
+fu	服	2000
+fu	福	1333
+fu	父	1000
+fu	付	800
+fu	夫	666
+fu	负	571
+fu	富	500
+gai	改	4000
+gai	该	2000
+gai	概	1333
+gan	感	4000
+gan	干	2000
+gan	敢	1333
+gan	赶	1000
+gang	刚	4000
+gang	钢	2000
+gang	港	1333
+gao	高	4000
+gao	告	2000
+gao	搞	1333
+gao	稿	1000
+ge	个	4000
+ge	各	2000
+ge	歌	1333
+ge	格	1000
+ge	割	800
+ge	哥	666
+gei	给	4000
+gen	根	4000
+gen	跟	2000
+geng	更	4000
+geng	耕	2000
+gong	工	4000
+gong	公	2000
+gong	共	1333
+gong	功	1000
+gong	供	800
+gong	攻	666
+gou	够	4000
+gou	构	2000
+gou	狗	1333
+gou	购	1000
+gu	古	4000
+gu	故	2000
+gu	顾	1333
+gu	骨	1000
+gu	股	800
+gu	鼓	666
+gua	挂	4000
+gua	刮	2000
+guai	怪	4000
+guan	关	4000
+guan	管	2000
+guan	观	1333
+guan	馆	1000
+guan	官	800
+guang	光	4000
+guang	广	2000
+gui	贵	4000
+gui	规	2000
+gui	归	1333
+gui	鬼	1000
+guo	国	4000
+guo	过	2000
+guo	果	1333
+guo	锅	1000
+ha	哈	4000
+hai	还	4000
+hai	海	2000
+hai	孩	1333
+hai	害	1000
+han	汉	4000
+han	喊	2000
+han	寒	1333
+han	韩	1000
+hang	行	4000
+hang	航	2000
+hao	好	4000
+hao	号	2000
+hao	浩	1333
+hao	毫	1000
+he	和	4000
+he	合	2000
+he	河	1333
+he	何	1000
+he	喝	800
+he	核	666
+hei	黑	4000
+hen	很	4000
+hen	恨	2000
+heng	横	4000
+heng	衡	2000
+hong	红	4000
+hong	洪	2000
+hong	宏	1333
+hou	后	4000
+hou	候	2000
+hou	厚	1333
+hou	喉	1000
+hu	户	4000
+hu	湖	2000
+hu	护	1333
+hu	忽	1000
+hu	胡	800
+hu	虎	666
+hua	话	4000
+hua	花	2000
+hua	华	1333
+hua	画	1000
+hua	划	800
+huai	坏	4000
+huai	怀	2000
+huan	换	4000
+huan	欢	2000
+huan	环	1333
+huan	缓	1000
+huang	黄	4000
+huang	皇	2000
+huang	慌	1333
+hui	会	4000
+hui	回	2000
+hui	汇	1333
+hui	灰	1000
+hui	辉	800
+hun	婚	4000
+hun	混	2000
+huo	活	4000
+huo	火	2000
+huo	或	1333
+huo	获	1000
+huo	货	800
+ji	机	4000
+ji	几	2000
+ji	己	1333
+ji	记	1000
+ji	级	800
+ji	极	666
+ji	济	571
+ji	及	500
+ji	即	444
+ji	集	400
+ji	急	363
+ji	季	333
+ji	寄	307
+jia	家	4000
+jia	加	2000
+jia	假	1333
+jia	价	1000
+jia	架	800
+jia	夹	666
+jian	见	4000
+jian	间	2000
+jian	件	1333
+jian	建	1000
+jian	简	800
+jian	减	666
+jian	剪	571
+jian	检	500
+jiang	将	4000
+jiang	讲	2000
+jiang	江	1333
+jiang	降	1000
+jiang	奖	800
+jiang	姜	666
+jiao	教	4000
+jiao	叫	2000
+jiao	交	1333
+jiao	脚	1000
+jiao	角	800
+jiao	觉	666
+jiao	较	571
+jiao	焦	500
+jie	接	4000
+jie	结	2000
+jie	街	1333
+jie	节	1000
+jie	姐	800
+jie	解	666
+jie	界	571
+jie	借	500
+jie	介	444
+jin	进	4000
+jin	近	2000
+jin	今	1333
+jin	金	1000
+jin	紧	800
+jin	尽	666
+jin	禁	571
+jing	经	4000
+jing	京	2000
+jing	精	1333
+jing	静	1000
+jing	境	800
+jing	景	666
+jing	惊	571
+jing	睛	500
+jiu	就	4000
+jiu	九	2000
+jiu	久	1333
+jiu	酒	1000
+jiu	旧	800
+ju	句	4000
+ju	局	2000
+ju	举	1333
+ju	居	1000
+ju	巨	800
+ju	具	666
+ju	聚	571
+ju	剧	500
+juan	卷	4000
+juan	捐	2000
+jue	决	4000
+jue	绝	2000
+jun	军	4000
+jun	均	2000
+jun	君	1333
+ka	卡	4000
+kai	开	4000
+kai	凯	2000
+kan	看	4000
+kan	砍	2000
+kang	康	4000
+kang	抗	2000
+kao	考	4000
+kao	靠	2000
+kao	烤	1333
+ke	可	4000
+ke	科	2000
+ke	课	1333
+ke	客	1000
+ke	刻	800
+ke	克	666
+ke	渴	571
+ken	肯	4000
+keng	坑	4000
+kong	空	4000
+kong	控	2000
+kong	恐	1333
+kou	口	4000
+kou	扣	2000
+ku	苦	4000
+ku	库	2000
+ku	哭	1333
+ku	酷	1000
+kua	夸	4000
+kuai	快	4000
+kuai	块	2000
+kuai	筷	1333
+kuan	宽	4000
+kuang	况	4000
+kuang	矿	2000
+kuang	狂	1333
+kui	亏	4000
+kun	困	4000
+kuo	扩	4000
+la	拉	4000
+la	啦	2000
+la	辣	1333
+la	垃	1000
+lai	来	4000
+lai	赖	2000
+lan	蓝	4000
+lan	烂	2000
+lan	懒	1333
+lan	兰	1000
+lang	浪	4000
+lang	狼	2000
+lao	老	4000
+lao	劳	2000
+lao	牢	1333
+le	了	4000
+le	乐	2000
+lei	类	4000
+lei	累	2000
+lei	泪	1333
+lei	雷	1000
+leng	冷	4000
+li	里	4000
+li	力	2000
+li	理	1333
+li	利	1000
+li	立	800
+li	例	666
+li	历	571
+li	离	500
+li	礼	444
+li	李	400
+lian	连	4000
+lian	联	2000
+lian	脸	1333
+lian	练	1000
+lian	恋	800
+liang	两	4000
+liang	量	2000
+liang	亮	1333
+liang	良	1000
+liang	凉	800
+liao	料	4000
+liao	聊	2000
+lie	列	4000
+lie	烈	2000
+lin	林	4000
+lin	临	2000
+lin	邻	1333
+ling	令	4000
+ling	领	2000
+ling	零	1333
+ling	另	1000
+ling	灵	800
+liu	六	4000
+liu	流	2000
+liu	留	1333
+liu	刘	1000
+long	龙	4000
+long	隆	2000
+lou	楼	4000
+lou	漏	2000
+lu	路	4000
+lu	陆	2000
+lu	录	1333
+lu	鲁	1000
+lu	卢	800
+lv	绿	4000
+lv	率	2000
+lv	旅	1333
+lv	律	1000
+lv	履	800
+luan	乱	4000
+lun	论	4000
+lun	轮	2000
+luo	落	4000
+luo	罗	2000
+luo	洛	1333
+ma	吗	4000
+ma	妈	2000
+ma	马	1333
+ma	麻	1000
+mai	买	4000
+mai	卖	2000
+mai	麦	1333
+man	满	4000
+man	慢	2000
+man	漫	1333
+mang	忙	4000
+mang	盲	2000
+mao	毛	4000
+mao	帽	2000
+mao	猫	1333
+me	么	4000
+mei	没	4000
+mei	每	2000
+mei	美	1333
+mei	妹	1000
+mei	梅	800
+men	们	4000
+men	门	2000
+meng	梦	4000
+meng	猛	2000
+meng	蒙	1333
+mi	米	4000
+mi	密	2000
+mi	秘	1333
+mi	迷	1000
+mian	面	4000
+mian	免	2000
+mian	棉	1333
+miao	秒	4000
+miao	妙	2000
+miao	苗	1333
+min	民	4000
+min	敏	2000
+ming	明	4000
+ming	名	2000
+ming	命	1333
+mo	模	4000
+mo	摸	2000
+mo	默	1333
+mo	末	1000
+mo	魔	800
+mou	某	4000
+mu	目	4000
+mu	母	2000
+mu	木	1333
+mu	幕	1000
+mu	牧	800
+na	那	4000
+na	拿	2000
+na	哪	1333
+na	纳	1000
+nai	奶	4000
+nai	耐	2000
+nan	难	4000
+nan	南	2000
+nan	男	1333
+nao	脑	4000
+nao	闹	2000
+ne	呢	4000
+nei	内	4000
+neng	能	4000
+ni	你	4000
+ni	尼	2000
+ni	泥	1333
+ni	拟	1000
+ni	逆	800
+nian	年	4000
+nian	念	2000
+niang	娘	4000
+niao	鸟	4000
+nin	您	4000
+ning	宁	4000
+ning	凝	2000
+niu	牛	4000
+niu	扭	2000
+nong	农	4000
+nong	浓	2000
+nu	努	4000
+nu	怒	2000
+nv	女	4000
+nuan	暖	4000
+nuo	诺	4000
+ou	欧	4000
+ou	偶	2000
+pa	怕	4000
+pa	爬	2000
+pa	帕	1333
+pai	排	4000
+pai	牌	2000
+pai	拍	1333
+pai	派	1000
+pan	判	4000
+pan	盘	2000
+pan	攀	1333
+pang	旁	4000
+pang	胖	2000
+pao	跑	4000
+pao	炮	2000
+pao	泡	1333
+pei	配	4000
+pei	陪	2000
+pei	培	1333
+pen	盆	4000
+peng	朋	4000
+peng	碰	2000
+peng	棚	1333
+pi	皮	4000
+pi	批	2000
+pi	脾	1333
+pi	匹	1000
+pian	片	4000
+pian	篇	2000
+pian	骗	1333
+piao	票	4000
+piao	漂	2000
+pin	品	4000
+pin	贫	2000
+pin	拼	1333
+ping	平	4000
+ping	瓶	2000
+ping	评	1333
+ping	凭	1000
+po	破	4000
+po	迫	2000
+po	婆	1333
+pu	普	4000
+pu	铺	2000
+pu	朴	1333
+qi	起	4000
+qi	其	2000
+qi	期	1333
+qi	气	1000
+qi	七	800
+qi	器	666
+qi	汽	571
+qi	奇	500
+qi	企	444
+qi	启	400
+qia	恰	4000
+qian	前	4000
+qian	钱	2000
+qian	千	1333
+qian	签	1000
+qian	浅	800
+qian	欠	666
+qiang	强	4000
+qiang	墙	2000
+qiang	抢	1333
+qiao	桥	4000
+qiao	巧	2000
+qiao	敲	1333
+qiao	悄	1000
+qie	且	4000
+qie	切	2000
+qin	亲	4000
+qin	琴	2000
+qin	勤	1333
+qin	秦	1000
+qing	请	4000
+qing	情	2000
+qing	清	1333
+qing	青	1000
+qing	轻	800
+qing	晴	666
+qing	庆	571
+qiong	穷	4000
+qiu	求	4000
+qiu	球	2000
+qiu	秋	1333
+qu	去	4000
+qu	区	2000
+qu	取	1333
+qu	趣	1000
+qu	曲	800
+quan	全	4000
+quan	权	2000
+quan	圈	1333
+quan	泉	1000
+que	却	4000
+que	确	2000
+que	缺	1333
+qun	群	4000
+ran	然	4000
+ran	燃	2000
+rang	让	4000
+rang	嚷	2000
+rao	绕	4000
+re	热	4000
+ren	人	4000
+ren	认	2000
+ren	任	1333
+ren	仁	1000
+reng	仍	4000
+reng	扔	2000
+ri	日	4000
+rong	容	4000
+rong	荣	2000
+rong	融	1333
+rou	肉	4000
+rou	柔	2000
+ru	如	4000
+ru	入	2000
+ru	乳	1333
+ruan	软	4000
+rui	瑞	4000
+rui	锐	2000
+run	润	4000
+ruo	若	4000
+ruo	弱	2000
+sa	撒	4000
+sai	赛	4000
+sai	塞	2000
+san	三	4000
+san	散	2000
+san	伞	1333
+sang	桑	4000
+sao	扫	4000
+sao	嫂	2000
+se	色	4000
+sen	森	4000
+seng	僧	4000
+sha	杀	4000
+sha	傻	2000
+sha	沙	1333
+shai	晒	4000
+shan	山	4000
+shan	删	2000
+shan	闪	1333
+shan	善	1000
+shang	上	4000
+shang	商	2000
+shang	伤	1333
+shang	尚	1000
+shao	少	4000
+shao	烧	2000
+shao	绍	1333
+she	社	4000
+she	设	2000
+she	舍	1333
+she	蛇	1000
+she	射	800
+shei	谁	4000
+shen	什	4000
+shen	身	2000
+shen	深	1333
+shen	神	1000
+shen	申	800
+shen	甚	666
+sheng	生	4000
+sheng	声	2000
+sheng	省	1333
+sheng	胜	1000
+sheng	升	800
+sheng	剩	666
+shi	是	4000
+shi	时	2000
+shi	事	1333
+shi	十	1000
+shi	实	800
+shi	使	666
+shi	市	571
+shi	世	500
+shi	食	444
+shi	始	400
+shi	师	363
+shi	试	333
+shi	式	307
+shi	室	285
+shou	手	4000
+shou	受	2000
+shou	收	1333
+shou	首	1000
+shou	守	800
+shou	寿	666
+shu	书	4000
+shu	数	2000
+shu	树	1333
+shu	输	1000
+shu	属	800
+shu	术	666
+shu	叔	571
+shu	熟	500
+shua	刷	4000
+shuai	帅	4000
+shuai	摔	2000
+shuan	拴	4000
+shuang	双	4000
+shuang	爽	2000
+shuang	霜	1333
+shui	水	4000
+shui	睡	2000
+shui	税	1333
+shun	顺	4000
+shuo	说	4000
+shuo	硕	2000
+si	四	4000
+si	死	2000
+si	思	1333
+si	司	1000
+si	私	800
+si	似	666
+song	送	4000
+song	松	2000
+song	宋	1333
+sou	搜	4000
+su	速	4000
+su	素	2000
+su	诉	1333
+su	宿	1000
+suan	算	4000
+suan	酸	2000
+sui	岁	4000
+sui	随	2000
+sui	虽	1333
+sui	碎	1000
+sun	孙	4000
+sun	损	2000
+suo	所	4000
+suo	缩	2000
+suo	索	1333
+ta	他	4000
+ta	她	2000
+ta	它	1333
+ta	塔	1000
+tai	太	4000
+tai	台	2000
+tai	态	1333
+tai	抬	1000
+tan	谈	4000
+tan	谭	2000
+tan	弹	1333
+tan	探	1000
+tan	叹	800
+tang	糖	4000
+tang	汤	2000
+tang	堂	1333
+tang	躺	1000
+tao	套	4000
+tao	逃	2000
+tao	桃	1333
+tao	讨	1000
+te	特	4000
+teng	疼	4000
+teng	腾	2000
+ti	提	4000
+ti	体	2000
+ti	题	1333
+ti	替	1000
+ti	踢	800
+tian	天	4000
+tian	田	2000
+tian	甜	1333
+tian	填	1000
+tiao	条	4000
+tiao	跳	2000
+tie	铁	4000
+tie	贴	2000
+ting	听	4000
+ting	停	2000
+ting	庭	1333
+ting	挺	1000
+tong	同	4000
+tong	通	2000
+tong	痛	1333
+tong	统	1000
+tong	童	800
+tou	头	4000
+tou	投	2000
+tou	透	1333
+tu	图	4000
+tu	土	2000
+tu	突	1333
+tu	吐	1000
+tuan	团	4000
+tui	推	4000
+tui	腿	2000
+tui	退	1333
+tun	吞	4000
+tuo	拖	4000
+tuo	脱	2000
+wa	瓦	4000
+wa	挖	2000
+wa	哇	1333
+wai	外	4000
+wan	完	4000
+wan	万	2000
+wan	晚	1333
+wan	玩	1000
+wan	弯	800
+wan	碗	666
+wang	王	4000
+wang	网	2000
+wang	往	1333
+wang	忘	1000
+wang	望	800
+wei	为	4000
+wei	位	2000
+wei	未	1333
+wei	味	1000
+wei	微	800
+wei	围	666
+wei	伟	571
+wei	卫	500
+wei	威	444
+wen	问	4000
+wen	文	2000
+wen	闻	1333
+wen	稳	1000
+wen	温	800
+weng	翁	4000
+wo	我	4000
+wo	握	2000
+wo	窝	1333
+wu	无	4000
+wu	五	2000
+wu	物	1333
+wu	务	1000
+wu	武	800
+wu	误	666
+wu	午	571
+wu	舞	500
+wu	屋	444
+xi	西	4000
+xi	希	2000
+xi	习	1333
+xi	系	1000
+xi	息	800
+xi	洗	666
+xi	喜	571
+xi	细	500
+xi	席	444
+xia	下	4000
+xia	夏	2000
+xia	吓	1333
+xia	瞎	1000
+xian	现	4000
+xian	先	2000
+xian	县	1333
+xian	线	1000
+xian	限	800
+xian	显	666
+xian	鲜	571
+xian	闲	500
+xian	献	444
+xiang	想	4000
+xiang	向	2000
+xiang	相	1333
+xiang	像	1000
+xiang	香	800
+xiang	响	666
+xiang	项	571
+xiang	象	500
+xiao	小	4000
+xiao	笑	2000
+xiao	校	1333
+xiao	消	1000
+xiao	效	800
+xiao	晓	666
+xiao	销	571
+xie	写	4000
+xie	些	2000
+xie	谢	1333
+xie	鞋	1000
+xie	血	800
+xie	斜	666
+xie	协	571
+xin	新	4000
+xin	心	2000
+xin	信	1333
+xin	辛	1000
+xin	欣	800
+xing	行	4000
+xing	性	2000
+xing	星	1333
+xing	形	1000
+xing	兴	800
+xing	型	666
+xing	醒	571
+xing	姓	500
+xiong	兄	4000
+xiong	熊	2000
+xiong	胸	1333
+xiu	休	4000
+xiu	修	2000
+xiu	秀	1333
+xiu	袖	1000
+xu	需	4000
+xu	许	2000
+xu	续	1333
+xu	虚	1000
+xu	序	800
+xuan	选	4000
+xuan	宣	2000
+xuan	旋	1333
+xue	学	4000
+xue	雪	2000
+xun	寻	4000
+xun	训	2000
+xun	讯	1333
+xun	迅	1000
+ya	呀	4000
+ya	压	2000
+ya	牙	1333
+ya	亚	1000
+ya	鸭	800
+yan	眼	4000
+yan	言	2000
+yan	研	1333
+yan	烟	1000
+yan	严	800
+yan	颜	666
+yan	演	571
+yan	验	500
+yan	盐	444
+yan	延	400
+yan	沿	363
+yang	样	4000
+yang	阳	2000
+yang	养	1333
+yang	羊	1000
+yang	洋	800
+yang	央	666
+yao	要	4000
+yao	药	2000
+yao	摇	1333
+yao	遥	1000
+yao	腰	800
+yao	邀	666
+ye	也	4000
+ye	夜	2000
+ye	业	1333
+ye	页	1000
+ye	野	800
+ye	叶	666
+yi	一	4000
+yi	以	2000
+yi	意	1333
+yi	已	1000
+yi	义	800
+yi	易	666
+yi	医	571
+yi	衣	500
+yi	亿	444
+yi	艺	400
+yi	移	363
+yi	议	333
+yi	译	307
+yin	因	4000
+yin	音	2000
+yin	引	1333
+yin	银	1000
+yin	印	800
+yin	饮	666
+ying	应	4000
+ying	英	2000
+ying	影	1333
+ying	营	1000
+ying	赢	800
+ying	硬	666
+yo	哟	4000
+yong	用	4000
+yong	永	2000
+yong	勇	1333
+yong	拥	1000
+you	有	4000
+you	又	2000
+you	友	1333
+you	由	1000
+you	游	800
+you	油	666
+you	右	571
+you	优	500
+you	邮	444
+yu	于	4000
+yu	与	2000
+yu	语	1333
+yu	雨	1000
+yu	鱼	800
+yu	育	666
+yu	遇	571
+yu	预	500
+yu	玉	444
+yu	宇	400
+yuan	元	4000
+yuan	原	2000
+yuan	院	1333
+yuan	愿	1000
+yuan	远	800
+yuan	员	666
+yuan	园	571
+yuan	圆	500
+yue	月	4000
+yue	越	2000
+yue	约	1333
+yue	阅	1000
+yun	云	4000
+yun	运	2000
+yun	允	1333
+yun	孕	1000
+za	杂	4000
+za	砸	2000
+zai	在	4000
+zai	再	2000
+zai	载	1333
+zai	灾	1000
+zan	赞	4000
+zan	暂	2000
+zan	咱	1333
+zang	脏	4000
+zang	葬	2000
+zao	早	4000
+zao	造	2000
+zao	糟	1333
+zao	噪	1000
+ze	则	4000
+ze	责	2000
+ze	择	1333
+zei	贼	4000
+zen	怎	4000
+zeng	增	4000
+zeng	赠	2000
+zha	炸	4000
+zha	扎	2000
+zha	眨	1333
+zhai	摘	4000
+zhai	窄	2000
+zhai	宅	1333
+zhan	站	4000
+zhan	战	2000
+zhan	展	1333
+zhan	占	1000
+zhang	长	4000
+zhang	张	2000
+zhang	章	1333
+zhang	掌	1000
+zhang	涨	800
+zhao	找	4000
+zhao	着	2000
+zhao	招	1333
+zhao	照	1000
+zhao	赵	800
+zhe	这	4000
+zhe	者	2000
+zhe	哲	1333
+zhe	折	1000
+zhen	真	4000
+zhen	镇	2000
+zhen	针	1333
+zhen	阵	1000
+zhen	珍	800
+zheng	正	4000
+zheng	整	2000
+zheng	政	1333
+zheng	争	1000
+zheng	证	800
+zheng	郑	666
+zhi	之	4000
+zhi	只	2000
+zhi	知	1333
+zhi	直	1000
+zhi	制	800
+zhi	治	666
+zhi	指	571
+zhi	至	500
+zhi	质	444
+zhi	志	400
+zhi	纸	363
+zhong	中	4000
+zhong	种	2000
+zhong	众	1333
+zhong	钟	1000
+zhou	周	4000
+zhou	州	2000
+zhou	洲	1333
+zhou	粥	1000
+zhu	主	4000
+zhu	住	2000
+zhu	注	1333
+zhu	助	1000
+zhu	著	800
+zhu	竹	666
+zhu	筑	571
+zhua	抓	4000
+zhuan	转	4000
+zhuan	专	2000
+zhuan	赚	1333
+zhuang	装	4000
+zhuang	状	2000
+zhuang	壮	1333
+zhui	追	4000
+zhui	坠	2000
+zhun	准	4000
+zhuo	桌	4000
+zhuo	捉	2000
+zi	子	4000
+zi	自	2000
+zi	字	1333
+zi	资	1000
+zi	紫	800
+zong	总	4000
+zong	宗	2000
+zong	综	1333
+zou	走	4000
+zou	邹	2000
+zu	组	4000
+zu	足	2000
+zu	族	1333
+zu	租	1000
+zuan	钻	4000
+zui	最	4000
+zui	罪	2000
+zui	嘴	1333
+zui	醉	1000
+zun	尊	4000
+zuo	做	4000
+zuo	作	2000
+zuo	坐	1333
+zuo	座	1000
+zuo	左	800
+zuo	昨	666
+huan	还	750
+yue	乐	450
+liao	了	750
+dei	得	450
+zhe	着	900
+zhuo	着	300
+du	都	450
+jue	觉	900
+zhong	重	1200
+jue	角	450
+zhuan	传	450
+tiao	调	750
+pian	便	300
+shuo	数	150
+xue	血	900
+ni hao	你好	18000
+xie xie	谢谢	18000
+zai jian	再见	14000
+dui bu qi	对不起	12000
+mei guan xi	没关系	10000
+peng you	朋友	16000
+xue xi	学习	16000
+gong zuo	工作	18000
+jin tian	今天	18000
+ming tian	明天	16000
+zuo tian	昨天	14000
+xian zai	现在	18000
+shi jian	时间	18000
+shen me	什么	20000
+wei shen me	为什么	18000
+zen me	怎么	18000
+zen me yang	怎么样	14000
+ke yi	可以	20000
+bu shi	不是	20000
+mei you	没有	20000
+xi huan	喜欢	18000
+zhi dao	知道	18000
+jue de	觉得	18000
+yin wei	因为	18000
+suo yi	所以	18000
+dan shi	但是	18000
+ru guo	如果	18000
+yi jing	已经	18000
+yi ge	一个	20000
+wo men	我们	20000
+ni men	你们	16000
+ta men	他们	18000
+da jia	大家	16000
+zi ji	自己	18000
+zhong guo	中国	20000
+bei jing	北京	16000
+shang hai	上海	16000
+shi jie	世界	18000
+guo jia	国家	18000
+xue xiao	学校	16000
+lao shi	老师	16000
+xue sheng	学生	16000
+tong xue	同学	12000
+gong si	公司	16000
+dian nao	电脑	16000
+shou ji	手机	16000
+wang luo	网络	14000
+ruan jian	软件	14000
+cheng xu	程序	14000
+kai fa	开发	14000
+she ji	设计	14000
+shu ru fa	输入法	12000
+pin yin	拼音	12000
+han zi	汉字	12000
+yu yan	语言	14000
+ying yu	英语	14000
+ri yu	日语	10000
+fan yi	翻译	12000
+dan ci	单词	10000
+ci hui	词汇	10000
+tong ji	统计	10000
+she zhi	设置	10000
+wen jian	文件	12000
+wen zi	文字	10000
+wen ti	问题	18000
+da an	答案	10000
+ming bai	明白	14000
+qing chu	清楚	12000
+zhong yao	重要	16000
+xu yao	需要	18000
+ying gai	应该	18000
+ke neng	可能	18000
+yi ding	一定	16000
+fei chang	非常	18000
+te bie	特别	14000
+bi jiao	比较	14000
+hai shi	还是	18000
+huo zhe	或者	16000
+er qie	而且	14000
+sui ran	虽然	16000
+ran hou	然后	18000
+kai shi	开始	18000
+jie shu	结束	14000
+ji xu	继续	14000
+wan cheng	完成	14000
+cheng gong	成功	14000
+shi bai	失败	12000
+sheng huo	生活	16000
+jia ting	家庭	12000
+hai zi	孩子	16000
+fu mu	父母	12000
+ba ba	爸爸	14000
+ma ma	妈妈	14000
+ge ge	哥哥	10000
+jie jie	姐姐	10000
+di di	弟弟	10000
+mei mei	妹妹	10000
+chi fan	吃饭	14000
+he shui	喝水	10000
+shui jiao	睡觉	14000
+qi chuang	起床	10000
+shang ban	上班	12000
+xia ban	下班	10000
+hui jia	回家	12000
+tian qi	天气	14000
+xia yu	下雨	10000
+hao chi	好吃	12000
+hao kan	好看	12000
+hao ting	好听	10000
+piao liang	漂亮	12000
+gao xing	高兴	14000
+kuai le	快乐	14000
+xing fu	幸福	12000
+jian kang	健康	12000
+shen ti	身体	14000
+yi yuan	医院	12000
+yi sheng	医生	12000
+yin hang	银行	12000
+shang dian	商店	10000
+chao shi	超市	10000
+ka fei	咖啡	12000
+ping guo	苹果	12000
+mi fan	米饭	10000
+shui guo	水果	12000
+shi hou	时候	20000
+di fang	地方	18000
+dong xi	东西	18000
+shi qing	事情	18000
+ban fa	办法	14000
+ji hui	机会	14000
+fang fa	方法	14000
+jie guo	结果	14000
+yuan yin	原因	14000
+jing yan	经验	12000
+jing ji	经济	14000
+she hui	社会	14000
+zheng fu	政府	12000
+wen hua	文化	14000
+li shi	历史	14000
+ke xue	科学	14000
+ji shu	技术	16000
+shu ju	数据	16000
+xin xi	信息	16000
+xi tong	系统	16000
+fu wu	服务	14000
+chan pin	产品	14000
+shi chang	市场	12000
+jia ge	价格	12000
+zhi liang	质量	12000
+an quan	安全	14000
+huan jing	环境	14000
+neng li	能力	14000
+guan xi	关系	16000
+ying xiang	影响	14000
+bian hua	变化	14000
+fa zhan	发展	16000
+ti gao	提高	14000
+zeng jia	增加	12000
+jian shao	减少	12000
+yan jiu	研究	14000
+fen xi	分析	14000
+bao gao	报告	12000
+ji hua	计划	14000
+xiang mu	项目	14000
+guan li	管理	14000
+tuan dui	团队	12000
+hui yi	会议	12000
+tao lun	讨论	12000
+jue ding	决定	14000
+xuan ze	选择	14000
+zhi chi	支持	14000
+bang zhu	帮助	16000
+huan ying	欢迎	12000
+gan xie	感谢	12000
+sheng ri	生日	10000
+chun jie	春节	10000
+zhou mo	周末	12000
+xing qi	星期	12000
+jin nian	今年	12000
+qu nian	去年	10000
+ming nian	明年	10000
+zao shang	早上	12000
+wan shang	晚上	14000
+zhong wu	中午	10000
+xia wu	下午	12000
+yi qi	一起	16000
+yi yang	一样	14000
+yi xia	一下	16000
+yi xie	一些	16000
+you dian	有点	14000
+bu yao	不要	16000
+bu hui	不会	16000
+bu neng	不能	16000
+bu cuo	不错	14000
+bu hao	不好	12000
+hen hao	很好	14000
+tai hao le	太好了	10000
+zhen de	真的	16000
+dang ran	当然	16000
+ye xu	也许	12000
+da gai	大概	12000
+yi qian	以前	16000
+yi hou	以后	16000
+zhi qian	之前	14000
+zhi hou	之后	14000
+tong shi	同时	14000
+bao kuo	包括	12000
+guan yu	关于	14000
+dui yu	对于	14000
+gen ju	根据	14000
+tong guo	通过	16000
+you yu	由于	14000
+zuo wei	作为	14000
+cheng wei	成为	14000
+jin xing	进行	16000
+shi xian	实现	14000
+ti gong	提供	14000
+shi yong	使用	16000
+can jia	参加	12000
+lai zi	来自	12000
+shu yu	属于	12000
+wo ai ni	我爱你	10000
+xiang fa	想法	12000
+zhong wen	中文	14000
+ren men	人们	14000
+ren min	人民	12000
+gong zuo shi	工作室	6000
+dian ying	电影	14000
+yin yue	音乐	14000
+shu ben	书本	6000
+du shu	读书	12000
+xie zi	写字	8000
+shuo hua	说话	12000
+ting shuo	听说	10000
+kan jian	看见	12000
+zou lu	走路	10000
+kai che	开车	12000
+zuo che	坐车	8000
+fei ji	飞机	12000
+huo che	火车	10000
+di tie	地铁	12000
+lu shang	路上	10000
+qi che	汽车	12000
+jia li	家里	12000
+wai mian	外面	10000
+li mian	里面	10000
+shang mian	上面	10000
+xia mian	下面	10000
+qian mian	前面	10000
+hou mian	后面	10000
+zhong jian	中间	10000
+pang bian	旁边	10000
