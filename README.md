@@ -135,7 +135,7 @@ build.sh / install.sh / uninstall.sh
 
 ## 从旧名称升级
 
-项目早期名为 QingjianSwift。`./install.sh` 会自动移除旧的 `QingjianSwift.app`，首次运行时会把
+项目早期名为 QingjianSwift, 参考 'Qianjian' readme 文件, 询问 AI 所得。`./install.sh` 会自动移除旧的 `QingjianSwift.app`，首次运行时会把
 `~/Library/Application Support/QingjianSwift/` 里的统计与词汇本迁移到新目录。
 旧版保存在钥匙串里的 AI 密钥不会迁移，请在 设置 ▸ 学习 里重新填写；
 系统设置的输入法列表里旧条目需要手动删除，再添加「语言输入法」。
